@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Old Cabin
+  m_EditorClassIdentifier: 
+  encounterName: Old Cabin
+  encounterProblem: Old Cabin
+  where: 2
+  numAnswers: 3
+  encounterAnswers:
+  - Open the door
+  - Break in
+  - Move on
+  numRequirements: 010000000100000001000000
+  numRewards: 030000000300000001000000
+  answerReqOut:
+  - {fileID: 11400000, guid: 3deff91869523a3409670e5e62fa1ba4, type: 2}
+  - {fileID: 11400000, guid: 031ddf85b52a8c54b8483f29d34a2058, type: 2}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 11400000, guid: 892aa6a93e2210b40a38aaaab3113809, type: 2}
+  - {fileID: 11400000, guid: ba920be8e28d85f40957c3412df1a4e2, type: 2}
+  - {fileID: 11400000, guid: 592852ae50328dc4ca89759944023b3b, type: 2}
+  - {fileID: 11400000, guid: 0606ba26dbc00f341a0656637e640ed3, type: 2}
+  - {fileID: 11400000, guid: 62d584738d1600f459003315fcb7c810, type: 2}
+  - {fileID: 11400000, guid: a44b3a50f6564fc4f8b8c58ebf618d6f, type: 2}
+  - {fileID: 0}
+  sound: {fileID: 11400000, guid: fc5ef9ef8ecc7a24eb4db2b4c8c6674c, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 15cfdcc3278191244994c1789c290180, type: 3}

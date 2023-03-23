@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Thick Bush
+  m_EditorClassIdentifier: 
+  encounterName: Thick Bush
+  encounterProblem: Thick Bush!
+  where: 0
+  numAnswers: 2
+  encounterAnswers:
+  - Hack your way through
+  - Push your way through
+  - 
+  numRequirements: 010000000100000000000000
+  numRewards: 010000000100000000000000
+  answerReqOut:
+  - {fileID: 11400000, guid: 5f7924d361c2d0c48bdbd73908f9a677, type: 2}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 743f4c1f8bf50fd419dbfc017827609d, type: 2}
+  sound: {fileID: 11400000, guid: 131d9103def60c745b9679e5c6c93eff, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}

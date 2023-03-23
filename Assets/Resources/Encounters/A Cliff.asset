@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: A Cliff
+  m_EditorClassIdentifier: 
+  encounterName: A Cliff
+  encounterProblem: A Cliff!
+  where: 0
+  numAnswers: 3
+  encounterAnswers:
+  - Rappel down
+  - Carefully step down
+  - Jump for it
+  numRequirements: 010000000100000001000000
+  numRewards: 010000000100000001000000
+  answerReqOut:
+  - {fileID: 11400000, guid: df6196daab6b72a4baaf0844448e2481, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 44407d557eb72a84d994742153bc6d37, type: 2}
+  - {fileID: 11400000, guid: d121d44f875746547913096f65140c02, type: 2}
+  sound: {fileID: 11400000, guid: 94ab1fd917018c24eaffc869b88cbea8, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}

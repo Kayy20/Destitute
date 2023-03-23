@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2845450610237183214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4018199591020283057}
+  - component: {fileID: 6071611536734384260}
+  m_Layer: 0
+  m_Name: ItemSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4018199591020283057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2845450610237183214}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6071611536734384260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2845450610237183214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ed98ac98f286f7428a111dd37638007, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debugCategory: {fileID: 11400000, guid: 0dfdc18e9f09f7846b5c63b720996c79, type: 2}
+  isValuable: 0
+  FoodChance: 0.33333334
+  WaterChance: 0.25
+  MedChance: 0.33333334
+  SurvivalChance: 0.33333334
+  valuableChance: 0.05
+  lastVars:
+  - 0.33333334
+  - 0.33333334
+  - 0.33333334
+  - 0.25
+  spawnSettings: {fileID: 11400000, guid: 77a0434b12fed3f4ebf46b40bcdc21be, type: 2}
+  DebugMode: 0
+  hasFlatSpawnRate: 0
+  flatSpawnRate: 1
+  hasSpawnOverride: 0
+  spawnOverride: {fileID: 0}
+  hasItemTypeOverride: 0
+  itemTypeOverride: 0
+  foodGO: {fileID: 9084322924114802163, guid: 0dd4d4ccc12372642bbce5fceee25abf, type: 3}
+  medGO: {fileID: 8196232417572794738, guid: fcc257ab517d2ec41b20fe5931c3c5b9, type: 3}
+  survGO: {fileID: 6281009228596096746, guid: a3589080a8f8e524b964ef7ad0bd9845, type: 3}
+  valGo: {fileID: 2554419970306449617, guid: 76c5334a17b61f24daf3437b4264a0a6, type: 3}

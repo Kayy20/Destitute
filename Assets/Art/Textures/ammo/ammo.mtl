@@ -1,0 +1,34 @@
+# Apple ModelI/O MTL File: ammo.mtl
+
+newmtl wire_153228214
+	map_Kd wire_153228214-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic wire_153228214-metallic.png
+	specularTint 0
+	map_roughness wire_153228214-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl wire_228183153
+	map_Kd wire_228183153-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic wire_228183153-metallic.png
+	specularTint 0
+	map_roughness wire_228183153-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

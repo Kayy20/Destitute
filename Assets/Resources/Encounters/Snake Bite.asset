@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Snake Bite
+  m_EditorClassIdentifier: 
+  encounterName: Snake Bite
+  encounterProblem: Snake Bite
+  where: 0
+  numAnswers: 2
+  encounterAnswers:
+  - Bandage it
+  - Walk it off
+  - 
+  numRequirements: 010000000100000000000000
+  numRewards: 010000000100000000000000
+  answerReqOut:
+  - {fileID: 11400000, guid: 547fba792a32bb9488892ff896ca41b9, type: 2}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: b99fc1da256849a48b9f1819213e480f, type: 2}
+  sound: {fileID: 11400000, guid: e2c1aac091920c543b38ce5d67b9f929, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Dead Rabbit!
+  m_EditorClassIdentifier: 
+  encounterName: Dead Rabbit!
+  encounterProblem: Dead Rabbit!
+  where: 0
+  numAnswers: 3
+  encounterAnswers:
+  - Skin it
+  - Do your best harvesting it
+  - Leave it
+  numRequirements: 010000000100000001000000
+  numRewards: 020000000100000001000000
+  answerReqOut:
+  - {fileID: 11400000, guid: c2f0f698e4c16714a875c9f75301d263, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 11400000, guid: 9386d761342bb0e4d89e82b3f44e572e, type: 2}
+  - {fileID: 11400000, guid: a17bbe3623180b646a745b9187a6eed1, type: 2}
+  - {fileID: 11400000, guid: 85db25dff199bca4cb5014d0ed99d5fd, type: 2}
+  - {fileID: 0}
+  sound: {fileID: 11400000, guid: 3aedcc86a15a22a4fb1a2c6ae83eef3a, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 356fbb23d3ddbf04da64984dab7dd454, type: 3}

@@ -1,0 +1,114 @@
+# Apple ModelI/O MTL File: MosinUVd.mtl
+
+newmtl Stock
+	map_Kd Stock-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Stock-metallic.png
+	specularTint 0
+	map_roughness Stock-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl BoltBarrel
+	map_Kd BoltBarrel-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic BoltBarrel-metallic.png
+	specularTint 0
+	map_roughness BoltBarrel-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Magazine
+	map_Kd Magazine-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Magazine-metallic.png
+	specularTint 0
+	map_roughness Magazine-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Guard
+	map_Kd Guard-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Guard-metallic.png
+	specularTint 0
+	map_roughness Guard-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl RearSight
+	map_Kd RearSight-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic RearSight-metallic.png
+	specularTint 0
+	map_roughness RearSight-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl FrontStight
+	map_Kd FrontStight-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic FrontStight-metallic.png
+	specularTint 0
+	map_roughness FrontStight-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Trigger
+	map_Kd Trigger-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Trigger-metallic.png
+	specularTint 0
+	map_roughness Trigger-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

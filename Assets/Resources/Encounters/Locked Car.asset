@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Locked Car
+  m_EditorClassIdentifier: 
+  encounterName: Locked Car
+  encounterProblem: Locked Car
+  where: 0
+  numAnswers: 3
+  encounterAnswers:
+  - Pick the locks
+  - Shoot the window
+  - Leave it
+  numRequirements: 010000000200000001000000
+  numRewards: 020000000200000001000000
+  answerReqOut:
+  - {fileID: 11400000, guid: 572ffda84a4bab24189e0f54ba46c1e8, type: 2}
+  - {fileID: 11400000, guid: bb1a64ed4a0a1db4b9ef563d0d326d32, type: 2}
+  - {fileID: 11400000, guid: d86fec6b68ab2b94389bb934dac13d0f, type: 2}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 11400000, guid: b58e6642487784042b8f9ae656a9137f, type: 2}
+  - {fileID: 11400000, guid: c86ed27752401664e81fbd9c87546bfa, type: 2}
+  - {fileID: 11400000, guid: e948042a26e79954da78de05fbfc1b4c, type: 2}
+  - {fileID: 11400000, guid: 5af7d4aed7f43a448bac834f61f3e4ed, type: 2}
+  - {fileID: 0}
+  sound: {fileID: 11400000, guid: 447d795ddd7773a408a411187a295765, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 095765c08daf784478ffaaf375aa6722, type: 3}

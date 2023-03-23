@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f85c1e833ad544c4aac50da9197eb98f, type: 3}
+  m_Name: MedItem
+  m_EditorClassIdentifier: 
+  name: MedPack
+  itemID: 52
+  image: {fileID: 21300000, guid: 2cbce2add1b058f4f92820d6a0095e51, type: 3}
+  prefab: {fileID: 2257275784163932172, guid: 6c371138c40b0374a95d01cda008291e, type: 3}
+  rarity: 0
+  resType: 7
+  width: 2
+  height: 2

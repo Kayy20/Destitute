@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b01cb0ca9f2c884408e0d6a1229806ee, type: 3}
+  m_Name: Dog Encounter
+  m_EditorClassIdentifier: 
+  soundName: Dog Encounter
+  clips:
+  - {fileID: 8300000, guid: 122be93403ad20940b153cee9b146f3e, type: 3}
+  mixerGroup: {fileID: 0}
+  numberOfClips: 1
+  minVolume: 1
+  maxVolume: 1
+  minPitch: 1
+  maxPitch: 1
+  is3D: 0
+  isLooping: 0

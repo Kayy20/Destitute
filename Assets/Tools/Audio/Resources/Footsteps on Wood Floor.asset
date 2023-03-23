@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b01cb0ca9f2c884408e0d6a1229806ee, type: 3}
+  m_Name: Footsteps on Wood Floor
+  m_EditorClassIdentifier: 
+  soundName: Footsteps on Wood Floor
+  clips:
+  - {fileID: 8300000, guid: 3a7184c14478bd14b981b2ad326fd751, type: 3}
+  - {fileID: 8300000, guid: c07b4b2569d02d74d83061df5aaaca8a, type: 3}
+  - {fileID: 8300000, guid: a2280861eb4682d4290afaa0656b624a, type: 3}
+  - {fileID: 8300000, guid: 24e679d7e252fbe4aaabc222b91dce13, type: 3}
+  - {fileID: 8300000, guid: cb5d80eeebd38084ca7c664a712403b9, type: 3}
+  mixerGroup: {fileID: 6460173971018527496, guid: 1c01ae470eb6892428a861925814bc7a, type: 2}
+  numberOfClips: 5
+  minVolume: 0.5
+  maxVolume: 0.5
+  minPitch: 1
+  maxPitch: 1
+  is3D: 1
+  isLooping: 1

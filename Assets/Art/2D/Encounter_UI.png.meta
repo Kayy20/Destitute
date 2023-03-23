@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 04a22aced9def274faaa82b33bc67e87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5426003231624564760
+    second: Encounter_UI_0
+  - first:
+      213: -1819166193084887597
+    second: Encounter_UI_1
+  - first:
+      213: -712869402483070989
+    second: Encounter_UI_2
+  - first:
+      213: -8797600995171068530
+    second: Encounter_UI_3
+  - first:
+      213: 837461225791841542
+    second: Encounter_UI_4
+  - first:
+      213: 812061321299426914
+    second: Encounter_UI_5
+  - first:
+      213: -5300280826155864399
+    second: Encounter_UI_6
+  - first:
+      213: 3669897276581086508
+    second: Encounter_UI_7
+  - first:
+      213: 7337651405749981422
+    second: Encounter_UI_8
+  - first:
+      213: -6885742476819759664
+    second: Encounter_UI_9
+  - first:
+      213: 7355120830554173042
+    second: Encounter_UI_10
+  - first:
+      213: 4610773132375744222
+    second: Encounter_UI_11
+  - first:
+      213: -4650439933033725905
+    second: Encounter_UI_12
+  - first:
+      213: 3098663613165751631
+    second: Encounter_UI_13
+  - first:
+      213: -2133462856629498777
+    second: Encounter_UI_14
+  - first:
+      213: -8304002291978913505
+    second: Encounter_UI_15
+  - first:
+      213: -1289983061577743422
+    second: Encounter_UI_16
+  - first:
+      213: 768548650124250094
+    second: Encounter_UI_17
+  - first:
+      213: 5563177863527666408
+    second: Encounter_UI_18
+  - first:
+      213: -960083993364255840
+    second: Encounter_UI_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Encounter_UI_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1504
+        width: 717
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109a13e0390d4b40800000000000000
+      internalID: 5426003231624564760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_1
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1528
+        width: 382
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd86c95cf501c6e0800000000000000
+      internalID: -1819166193084887597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_2
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1493
+        width: 707
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f760cd2e016b16f0800000000000000
+      internalID: -712869402483070989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_3
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2190
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85943fa184a8e580800000000000000
+      internalID: -8797600995171068530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_4
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1522
+        width: 476
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056c7c3c824f9b00800000000000000
+      internalID: 837461225791841542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_5
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2023
+        width: 70
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef2ef1875054b00800000000000000
+      internalID: 812061321299426914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_6
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1907
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6a23bbae9176b0800000000000000
+      internalID: -5300280826155864399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_7
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1686
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250acc01281ee230800000000000000
+      internalID: 3669897276581086508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 773
+        width: 694
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09f55b31394d560800000000000000
+      internalID: 7337651405749981422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 783
+        width: 659
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf65613bde070a0800000000000000
+      internalID: -6885742476819759664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_10
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 802
+        width: 689
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee1412d63a21660800000000000000
+      internalID: 7355120830554173042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_11
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1450
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ededb272cb1ccff30800000000000000
+      internalID: 4610773132375744222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_12
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 808
+        width: 392
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20cb3e1581567fb0800000000000000
+      internalID: -4650439933033725905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 885
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4c25832aa00b20800000000000000
+      internalID: 3098663613165751631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 675
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccb11e5da6462e0800000000000000
+      internalID: -2133462856629498777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 80
+        width: 675
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19319479e142cc80800000000000000
+      internalID: -8304002291978913505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_16
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 83
+        width: 460
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c343687d3f091ee0800000000000000
+      internalID: -1289983061577743422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_17
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 131
+        width: 467
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0343ecee6aaa00800000000000000
+      internalID: 768548650124250094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_18
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 38
+        width: 366
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e212e9bac0643d40800000000000000
+      internalID: 5563177863527666408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encounter_UI_19
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 30
+        width: 705
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2cfcd1b81da2f0800000000000000
+      internalID: -960083993364255840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: afc24ef52c7882b469a48a65097f2230
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

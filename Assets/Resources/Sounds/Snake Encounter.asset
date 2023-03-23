@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b01cb0ca9f2c884408e0d6a1229806ee, type: 3}
+  m_Name: Snake Encounter
+  m_EditorClassIdentifier: 
+  soundName: Snake Encounter
+  clips:
+  - {fileID: 8300000, guid: 8b50f1634303ac24ca8955c742b762bd, type: 3}
+  mixerGroup: {fileID: -4689542861921606212, guid: 1c01ae470eb6892428a861925814bc7a, type: 2}
+  numberOfClips: 1
+  minVolume: 0.5
+  maxVolume: 0.5
+  minPitch: 1
+  maxPitch: 1
+  is3D: 0
+  isLooping: 0

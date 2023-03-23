@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Bear Attack!
+  m_EditorClassIdentifier: 
+  encounterName: Bear Attack!
+  encounterProblem: Bear Attack!
+  where: 0
+  numAnswers: 3
+  encounterAnswers:
+  - Shoot!
+  - Defend yourself
+  - Run
+  numRequirements: 020000000100000001000000
+  numRewards: 010000000200000002000000
+  answerReqOut:
+  - {fileID: 11400000, guid: 3db25d1adde05a546a4bb85d4c031b6b, type: 2}
+  - {fileID: 11400000, guid: c3027d90cf83f44499f5771c31dc1073, type: 2}
+  - {fileID: 11400000, guid: 9002b6f6eac00fc4fa180235f9382665, type: 2}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 11400000, guid: 3705d2a794a2d6e439a78ef1c5a78b83, type: 2}
+  - {fileID: 11400000, guid: cf22188a5f7b36944b627a11943d4f97, type: 2}
+  - {fileID: 11400000, guid: 6422cf6ac31aac1499f8cc27844b88cf, type: 2}
+  - {fileID: 11400000, guid: 3720a98ce967eb441a03bfb42e973d6a, type: 2}
+  - {fileID: 11400000, guid: 092b5f2fadb8f804095e8b3d0ec37af5, type: 2}
+  sound: {fileID: 11400000, guid: 3f144420d5a94f5459efa07498d454f7, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  encounterName: Skeleton
+  encounterProblem: A Skeleton with a bag!
+  where: 0
+  numAnswers: 2
+  encounterAnswers:
+  - Loot the bag
+  - Pay your respects and move on
+  - 
+  numRequirements: 010000000100000000000000
+  numRewards: 020000000100000000000000
+  answerReqOut:
+  - {fileID: 0}
+  - {fileID: 0}
+  answerRewOut:
+  - {fileID: 11400000, guid: 1df95d3fd2535d44080bda20f27609d2, type: 2}
+  - {fileID: 11400000, guid: 864f391216146a4489559a813b5e0536, type: 2}
+  - {fileID: 0}
+  sound: {fileID: 11400000, guid: a2722045b2195564897a21ca083770db, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}

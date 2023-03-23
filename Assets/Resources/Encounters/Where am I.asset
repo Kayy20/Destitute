@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf430fc0a34c734697569560a6d3e17, type: 3}
+  m_Name: Where am I
+  m_EditorClassIdentifier: 
+  encounterName: Where am I
+  encounterProblem: Where am I?
+  where: 2
+  numAnswers: 3
+  encounterAnswers:
+  - Reorient yourself
+  - Accept it
+  - Shoot into the air
+  numRequirements: 010000000100000002000000
+  numRewards: 010000000100000001000000
+  answerReqOut:
+  - {fileID: 11400000, guid: f11e5acf2c8e3cf4f854484003b31b3e, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 89818fd584c8f4c4d916ebe1b4ed6af8, type: 2}
+  - {fileID: 11400000, guid: 4da48fc6c5ec98743bd52be59f36a13c, type: 2}
+  answerRewOut:
+  - {fileID: 11400000, guid: 738deb37d937d0244883858967be7542, type: 2}
+  - {fileID: 11400000, guid: 9b0fccd12ad352b4b858ec84656afec5, type: 2}
+  - {fileID: 0}
+  sound: {fileID: 11400000, guid: a2722045b2195564897a21ca083770db, type: 2}
+  backgroundImage: {fileID: 21300000, guid: 8441fd88d31225e47bb90ab68c5f6953, type: 3}
